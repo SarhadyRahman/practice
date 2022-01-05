@@ -1,5 +1,6 @@
 .red{
     color: #D92026;
+    font-size: 55px;
 }
 body{
     font-family: 'Poppins', sans-serif;
@@ -32,7 +33,7 @@ h1{
     width: 90%;
 }
 .box2{
-    width: 45%;
+    width: 40%;
     padding-left: 6%;
     padding-bottom: 4%;
 }
